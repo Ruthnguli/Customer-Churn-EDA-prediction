@@ -1,6 +1,7 @@
 # Customer-Churn-EDA-prediction
 
-# This is a group work of a team of four i.e Wendy oira, Jasmine Wakini , Kevin Kiprono and Ruth Nguli
+# This is a group work of a team of four 
+i.e Wendy oira, Jasmine Wakini , Kevin Kiprono and Ruth Nguli
 
 # Understanding the Context
 Customer churn - also known as customer attrition – is when a customer stops using/buying your products or services.
