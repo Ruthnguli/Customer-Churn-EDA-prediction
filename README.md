@@ -1,4 +1,4 @@
-# Customer-Churn-EDA-prediction
+# Customer-Churn-EDA- and-prediction-Model
 
 # This is a group work of a team of six
 i.e Wendy Oira, Jasmine Wakini , Kevin Kiprono, Emmanuel Titi, Edward Sang and Ruth Nguli
